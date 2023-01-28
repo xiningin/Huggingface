@@ -1,2 +1,2 @@
 # Huggingface
-在此放置一些在huggingface上学习时编写的一些代码，当前我尝试过的模型主要为基于transformer模型encoder、decoder框架的视觉、文本领域的分类，生成，语意推理等方面的应用。
+在此放置一些在huggingface上学习时编写的一些代码，当前我尝试过的模型主要为基于transformer模型encoder、decoder框架的视觉、文本、音频领域的分类，生成，语意推理等方面的应用。
